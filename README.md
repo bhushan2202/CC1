@@ -1,1 +1,1 @@
-# CC1
+print("Hello")
